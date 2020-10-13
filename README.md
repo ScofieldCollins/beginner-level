@@ -1,4 +1,4 @@
-                                          One Computer Science Major Student's Learning Journey
+                                One Computer Science Major Student's Learning Journey
 
 Key Professional Courses :
 
@@ -16,4 +16,4 @@ Programming Language :
 
 Java
 
-                                                Dream Of Becoming A Better Programmer 
+                                       Dream Of Becoming A Better Programmer 
