@@ -8,9 +8,7 @@ Operating System
 
 Database Systems
 
-Computer Networking
-
-Principles Of Computer Organization
+Computer Networking 
 
 Programming Language :
 
