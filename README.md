@@ -1,19 +1,19 @@
-                                One Computer Science Major Student's Learning Journey
+# One Computer Science Major Student's Learning Journey
 
-Key Professional Courses :
+## Key Professional Courses :
 
-Algorithm
+* Algorithm
 
-Operating System
+* Operating System
 
-Database Systems
+* Database Systems
 
-Computer Networking 
+* Computer Networking 
 
-Programming Language :
+## Programming Language :
 
-Java
+* Java
 
-JavaScript
+* JavaScript
 
-                                       Dream Of Becoming A Better Programmer 
+# Dream Of Becoming A Better Programmer 
